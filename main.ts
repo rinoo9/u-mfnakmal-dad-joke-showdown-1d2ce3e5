@@ -4,7 +4,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const JOKE =
-  "My son asked me why I bring a ladder to every barbecue. I said, 'The steaks are high, son.'";
+  "Why did the scarecrow win an award? Because he was outstanding in his field.";
 
 function main(): void {
   // The gate requires /output/entry.txt to hold 1 to 200 characters.
