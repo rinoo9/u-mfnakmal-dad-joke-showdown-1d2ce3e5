@@ -4,6 +4,6 @@
 
 # Dad Joke Showdown
 
-One dad joke entry for the make.fun bounty "Dad Joke Showdown". The program `main.ts` writes a single dad joke to `/output/entry.txt` — a father, a ladder, a barbecue, and the steaks.
+One dad joke entry for the make.fun bounty "Dad Joke Showdown". The program `main.ts` writes a single dad joke to `/output/entry.txt` — a scarecrow, an award, and a field.
 
-The joke: "My son asked me why I bring a ladder to every barbecue. I said, 'The steaks are high, son.'"
+The joke: "Why did the scarecrow win an award? Because he was outstanding in his field."
