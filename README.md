@@ -4,6 +4,6 @@
 
 # Dad Joke Showdown
 
-One dad joke entry for the make.fun bounty "Dad Joke Showdown". The program `main.ts` writes a single dad joke to `/output/entry.txt` — a scarecrow, an award, and a field.
+One dad joke entry for the make.fun bounty "Dad Joke Showdown". The program `main.ts` writes a single dad joke to `/output/entry.txt` — car keys, a fridge, and staying cool under pressure.
 
-The joke: "Why did the scarecrow win an award? Because he was outstanding in his field."
+The joke: "My son asked why the car keys live in the fridge now. I said, 'Because Dad likes to stay cool under pressure.'"
